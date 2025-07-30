@@ -1,1 +1,1 @@
-# Full-stack-project-03
+My internship journey with Atozerv India Pvt Ltd. while pursuing my studies at V.S.B. College of Engineering Technical Campus. In just 3days, I've successfully completed my 3rd Website project - A reflection of the exceptional hands-on experience and industry-focused, job-ready training offered at Atozerv India Pvt Ltd. 
