@@ -1,0 +1,119 @@
+.a{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(195, 255, 235);
+}
+.b{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;  
+    background-color: rgb(56, 179, 179);
+}
+.c{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 30px;
+    column-gap: 25px;
+}
+.d{
+    margin-top: 20px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(214, 244, 245);
+    border-radius: 20px;
+}
+.e{
+    height: 175px;
+    width: 100%;
+    border-radius: 50%;
+}
+.f{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.g{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.para{
+    text-align: justify;
+}
+.btn{
+    height: 37px;
+    width: 100px;
+    margin-bottom: 10px;
+    background-color: rgb(214, 244, 245) ;
+}
+.h{
+    color: navy;
+}
+.i{
+    color: green;
+}
+.j{
+    margin-top: 15px;
+    background-color: rgb(195, 255, 235);
+}
+.k{
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+.l{
+    background-color: rgb(195, 255, 235);
+}
+.m{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(71, 205, 205);
+    padding: 15px;
+    color: white;
+    font-weight: 500;
+}
+.n{
+    margin-top: 20px;
+}
+.o{
+    color: navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+}
+.p{
+    padding: 10px;
+}
+.q{
+    margin-left: 20px;
+}
+.r{
+    list-style: none;
+}
+.s{
+    border-radius: 10px;
+}
+.t{
+    font-size: 20px;
+    font-weight: bold;
+}
+.u{
+    background-color: rgb(247, 65, 65);
+    color: white;
+    margin-left: 90px;
+    margin-top: 3px;
+    font-weight: 800px;
+}
+.v{
+    margin-top: 10px;
+}
+.w{
+    margin-left: 600px;
+}
+.x{
+    color: navy;
+}
+.z{
+    border-radius: 50px;
+}
